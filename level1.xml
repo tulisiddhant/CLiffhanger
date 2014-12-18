@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<params width="2000" height="700" money="5000" maxForceTemp="0.9" baseRodCost="500" pillarCost="200" maxRodLength="200" gridSpacing="20" winlimit="800" range1="2" range2="4" range3="6"></params>
+	
+	<pivot maxForce="1.2" x="30" y="15"></pivot>
+	<pivot maxForce="0.3" x="60" y="15"></pivot>
+	
+	<terrain x="7.5" y="32.5" width="5" height="7.5" leftPivot="0" rightPivot="1.2"></terrain>
+	<!--<terrain x="15" y="32.5" width="5" height="7.5" leftPivot="0.8" rightPivot="0.8"></terrain>-->
+	<terrain x="52.5" y="32.5" width="5" height="7.5" leftPivot="1.3" rightPivot="1"></terrain>
+	<terrain x="100.5" y="32.5" width="5" height="7.5" leftPivot="1.3" rightPivot="0"></terrain>
+	
+	<bird width="1" height="1" x="5.5" y="22.5" density="3"></bird>
+	<bird width="1" height="1" x="3" y="22.5" density="3"></bird>
+	
+</data>
